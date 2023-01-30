@@ -1,3 +1,4 @@
+//First program
 package main;
 import ("fmt");  //Library for formatting strings and printing messages to console
 
